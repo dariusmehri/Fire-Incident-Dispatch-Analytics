@@ -33,6 +33,8 @@ Response time analysis for all incidents reveals a clear geographic concentratio
 
 <img width="1131" height="651" alt="image" src="https://github.com/user-attachments/assets/26e6028b-31c7-4ded-a2cf-28daa8c1bb48" />
 
+
+
 <img width="1176" height="445" alt="image" src="https://github.com/user-attachments/assets/ce304270-bcf4-45b0-addc-49b46b930b56" />
 
 
