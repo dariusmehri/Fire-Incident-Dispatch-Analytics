@@ -28,4 +28,14 @@ The distribution of private dwelling fire incidents is concentrated in Queens, S
 
 <img width="1149" height="655" alt="image" src="https://github.com/user-attachments/assets/0c0b1980-7421-4803-ac67-fdbcbc0f196e" />
 
+### Response Time
+Response time analysis for all incidents reveals a clear geographic concentration of slower performance in the Bronx, with eight of the ten highest-response-time districts located there. While overall response times are tightly distributed around a six-minute average, these districts consistently exceed that baseline. The pattern is likely driven primarily by operational factors, including high call volume, reduced unit availability, and challenging street conditions such as congestion and narrow roadways. As a result, responding units are more frequently dispatched from greater distances, increasing travel time. Similar, though less pronounced, patterns are observed in dense areas such as Astoria and the Upper East Side.
+
+<img width="1131" height="651" alt="image" src="https://github.com/user-attachments/assets/26e6028b-31c7-4ded-a2cf-28daa8c1bb48" />
+
+
+
+
+
+
 
