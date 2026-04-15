@@ -18,7 +18,8 @@ The analysis reveals two distinct patterns in medical incident rates across New 
 The distribution of assist civilian incidents reveals a clear concentration in Bronx neighborhoods, including Melrose, Mott Haven, Morrisania, and surrounding areas. Unlike medical incidents, which are influenced by daytime population in commercial districts, assist civilian calls are more closely tied to residential vulnerability. These neighborhoods are characterized by high-density housing, significant NYCHA presence, and populations with greater mobility and health challenges. As a result, FDNY frequently serves as a primary support system for non-emergency assistance. Midtown Manhattan also ranks highly, but this is driven by high daytime population rather than underlying residential need. Central Harlem exhibits similar patterns to the Bronx, reflecting comparable socioeconomic and housing conditions.
 
 
-<img width="1113" height="651" alt="image" src="https://github.com/user-attachments/assets/2eef750c-e356-460f-b23b-01b4440fc964" />
+<img width="1129" height="662" alt="image" src="https://github.com/user-attachments/assets/9bd99a2d-7251-4279-8460-cb38d9820b79" />
+
 
 
 ### Private Dwelling Fires
