@@ -6,5 +6,7 @@ In 2025, FDNY dispatch responded to 211,775 incidents. Medical incidents account
 
 This analysis aims to identify spatial hotspots for the three most prevalent incident types—medical, assist civilian, and utility emergencies—across the city. Incident rates were standardized per 100,000 residents to enable meaningful comparisons, with results evaluated at the community district level.
 
+### Medical Incidents
+
 
 
