@@ -25,4 +25,5 @@ The distribution of assist civilian incidents reveals a clear concentration in B
 ### Private Dwelling Fires
 The distribution of private dwelling fire incidents is concentrated in Queens, Staten Island, and parts of Brooklyn, reflecting the prevalence of low-rise, one- and two-family homes in these areas. Unlike other incident types, which are driven by population density or socioeconomic factors, private dwelling fires are closely tied to housing characteristics, including building type, age, and heating systems. As a result, neighborhoods with a higher proportion of private homes—such as Queens Village, Rosedale, and Tottenville—exhibit elevated incident rates. In contrast, denser areas of Manhattan and the Bronx, which are dominated by multi-family apartment buildings, show lower rates for this specific category, as fires in those areas are more likely classified under multiple dwelling incidents.
 
-<img width="1150" height="656" alt="image" src="https://github.com/user-attachments/assets/0c99ac86-e0c2-45ff-a484-4b83642d52fd" />
+<img width="1147" height="654" alt="image" src="https://github.com/user-attachments/assets/4d1de7df-b811-4b9a-b0ad-45ee0d846cfa" />
+
