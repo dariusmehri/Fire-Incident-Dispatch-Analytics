@@ -20,3 +20,7 @@ The distribution of assist civilian incidents reveals a clear concentration in B
 <img width="1113" height="651" alt="image" src="https://github.com/user-attachments/assets/2eef750c-e356-460f-b23b-01b4440fc964" />
 
 
+### Private Dwelling Fires
+
+
+<img width="1150" height="656" alt="image" src="https://github.com/user-attachments/assets/0c99ac86-e0c2-45ff-a484-4b83642d52fd" />
