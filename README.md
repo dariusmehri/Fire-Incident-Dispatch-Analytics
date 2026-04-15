@@ -10,7 +10,8 @@ This analysis aims to identify spatial hotspots for three incident types—medic
 The analysis reveals two distinct patterns in medical incident rates across New York City. Midtown Manhattan emerges as the highest apparent hotspot; however, this is primarily driven by a mismatch between its large  daytime population and relatively small residential population, which inflates the population-normalized rate. In contrast, Bronx neighborhoods—including Melrose, Mott Haven, Morrisania, and Crotona Park East—as well as Brownsville in Brooklyn, represent true residential hotspots. These areas are characterized by high population density, socioeconomic vulnerability, and greater reliance on emergency services, resulting in genuinely elevated medical incident rates.
 
 
-<img width="1144" height="644" alt="image" src="https://github.com/user-attachments/assets/932eebfe-f44f-4ab3-b685-332a3652df51" />
+<img width="1139" height="658" alt="image" src="https://github.com/user-attachments/assets/b2f81bef-0b7a-49f5-a48e-ec1d21f125b2" />
+
 
 
 
@@ -25,5 +26,6 @@ The distribution of assist civilian incidents reveals a clear concentration in B
 ### Private Dwelling Fires
 The distribution of private dwelling fire incidents is concentrated in Queens, Staten Island, and parts of Brooklyn, reflecting the prevalence of low-rise, one- and two-family homes in these areas. Unlike other incident types, which are driven by population density or socioeconomic factors, private dwelling fires are closely tied to housing characteristics, including building type, age, and heating systems. As a result, neighborhoods with a higher proportion of private homes—such as Queens Village, Rosedale, and Tottenville—exhibit elevated incident rates. In contrast, denser areas of Manhattan and the Bronx, which are dominated by multi-family apartment buildings, show lower rates for this specific category, as fires in those areas are more likely classified under multiple dwelling incidents.
 
-<img width="1147" height="654" alt="image" src="https://github.com/user-attachments/assets/4d1de7df-b811-4b9a-b0ad-45ee0d846cfa" />
+<img width="1149" height="655" alt="image" src="https://github.com/user-attachments/assets/0c0b1980-7421-4803-ac67-fdbcbc0f196e" />
+
 
