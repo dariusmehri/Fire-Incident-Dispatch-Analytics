@@ -9,6 +9,7 @@ This analysis aims to identify spatial hotspots for the three most prevalent inc
 ### Medical Incidents
 The analysis reveals two distinct patterns in medical incident rates across New York City. Midtown Manhattan emerges as the highest apparent hotspot; however, this is primarily driven by a mismatch between its large daytime population and relatively small residential population, which inflates the population-normalized rate. In contrast, Bronx neighborhoods—including Melrose, Mott Haven, Morrisania, and Crotona Park East—as well as Brownsville in Brooklyn, represent true residential hotspots. These areas are characterized by high population density, socioeconomic vulnerability, and greater reliance on emergency services, resulting in genuinely elevated medical incident rates.
 
+
 <img width="1135" height="642" alt="image" src="https://github.com/user-attachments/assets/8a02306b-385a-4f00-810b-c40a86b82b39" />
 
 
