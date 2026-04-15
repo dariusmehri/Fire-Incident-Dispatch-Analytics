@@ -9,7 +9,7 @@ This analysis aims to identify spatial hotspots for the three most prevalent inc
 ### Medical Incidents
 
 
-<img width="935" height="442" alt="image" src="https://github.com/user-attachments/assets/8a02306b-385a-4f00-810b-c40a86b82b39" />
+<img width="1135" height="642" alt="image" src="https://github.com/user-attachments/assets/8a02306b-385a-4f00-810b-c40a86b82b39" />
 
 
 
