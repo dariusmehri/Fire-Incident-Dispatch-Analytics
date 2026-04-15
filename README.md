@@ -13,5 +13,8 @@ The analysis reveals two distinct patterns in medical incident rates across New 
 <img width="1135" height="642" alt="image" src="https://github.com/user-attachments/assets/8a02306b-385a-4f00-810b-c40a86b82b39" />
 
 
+### Assist Civilian
+
+<img width="1113" height="651" alt="image" src="https://github.com/user-attachments/assets/2eef750c-e356-460f-b23b-01b4440fc964" />
 
 
