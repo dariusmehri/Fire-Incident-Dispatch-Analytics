@@ -1,6 +1,6 @@
 # Fire Incident Dispatch Analytics
 
-This project uses Python, generative AI, and Power BI to deliver data-driven insights into 2025 FDNY fire dispatch operations. The FDNY dispatch data was obtained from NYC Open Data.
+This project uses Python, generative AI, and Power BI to deliver data-driven insights into 2025 FDNY fire dispatch operations. The data was obtained from NYC Open Data.
 
 In 2025, FDNY dispatch responded to 211,775 incidents across 39 incident types. Medical incidents accounted for more than half of all calls (108,948). The next most common categories were assist civilian (15,846), utility emergencies (15,012), alarm system activations (14,702), and elevator emergencies (14,702). Other incident types included odors, non-medical calls, multiple dwelling incidents, vehicle accidents, and private dwelling fires.
 
