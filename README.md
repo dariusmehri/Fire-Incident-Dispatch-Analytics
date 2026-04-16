@@ -36,8 +36,7 @@ Response time analysis for all incidents reveals a clear geographic concentratio
 
 
 #### Response Time Outlier Analysis
-The mean response time for all incidents is 6.08 minutes, with a standard deviation of 0.60 minutes. The histogram below illustrates the distribution of response times highlighting the Bronx, while the map highlights community districts with response times exceeding one standard deviation above the mean.
-
+Response times average 6.08 minutes (standard deviation: 0.60 minutes). The histogram shows the distribution of response times, highlighting a concentration of higher values in the Bronx, while the map identifies community districts exceeding one standard deviation above the mean.
 
 <img width="919" height="679" alt="image" src="https://github.com/user-attachments/assets/90e5e475-5510-4026-bd56-c77cc72074e2" />
 
