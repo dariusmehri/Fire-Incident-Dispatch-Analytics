@@ -42,7 +42,7 @@ The mean response time for all incidents is 6.08 minutes, with a standard deviat
 <img width="919" height="679" alt="image" src="https://github.com/user-attachments/assets/90e5e475-5510-4026-bd56-c77cc72074e2" />
 
 
-<img width="919" height="732" alt="image" src="https://github.com/user-attachments/assets/bf32b9f0-001a-4cb0-b4fd-ad7923b8eb37" />
+<img width="819" height="632" alt="image" src="https://github.com/user-attachments/assets/bf32b9f0-001a-4cb0-b4fd-ad7923b8eb37" />
 
 
 
